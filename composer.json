@@ -1,0 +1,24 @@
+{
+    "name": "europlan-spa/laravel-db-backup",
+    "type": "composer-plugin",
+    "autoload": {
+        "psr-4": {
+            "EuroplanSpa\\LaravelDbBackup\\": "src/"
+        },
+        "files": [
+            "src/BackupDB.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "IlVice26",
+            "email": "eliavicentini26@gmail.com"
+        },
+        {
+            "name": "andreazorzi",
+            "email": "andreazorzi96@gmail.com"
+        }
+    ],
+    "require": {
+    }
+}
