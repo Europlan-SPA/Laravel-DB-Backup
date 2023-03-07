@@ -1,6 +1,7 @@
 {
     "name": "europlan-spa/laravel-db-backup",
-    "type": "composer-plugin",
+    "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "EuroplanSpa\\LaravelDbBackup\\": "src/"
